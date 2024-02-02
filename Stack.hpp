@@ -1,4 +1,6 @@
-#include"D:\project\数据结构模版\Vector\Vector\template-of-Vector\Vector.hpp"
+//鎰熻阿銆婃暟鎹粨鏋勶紙C++璇█鐗堬級銆嬫彁渚涚殑浠ｇ爜
+
+#include"D:\project\脢媒戮脻陆谩鹿鹿脛拢掳忙\Vector\Vector\template-of-Vector\Vector.hpp"
 
 template <typename T> class Stack : public Vector<T> {
 public:
