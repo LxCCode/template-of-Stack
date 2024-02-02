@@ -1,6 +1,6 @@
 //感谢《数据结构（C++语言版）》提供的代码
 
-#include"D:\project\Êý¾Ý½á¹¹Ä£°æ\Vector\Vector\template-of-Vector\Vector.hpp"
+#include"..\..\..\Vector\Vector\template-of-Vector\Vector.hpp"
 
 template <typename T> class Stack : public Vector<T> {
 public:
